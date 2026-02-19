@@ -10,9 +10,9 @@ A comprehensive **Model Context Protocol (MCP)** server for Fantasy Premier Leag
 
 This MCP server provides comprehensive FPL analysis capabilities through:
 
-- **17 Interactive Tools** - Search players, analyze fixtures, compare managers, track transfers, and more
-- **4 Data Resources** - access to players, teams, and gameweeks bootstrap data
-- **9 Strategy Prompts** - Structured templates for gameweek analysis, squad analysis, transfer planning, chip strategy, and captain selection
+- **19 Interactive Tools** - Search players, analyze fixtures, compare managers, track transfers, and more
+- **4 Data Resources** - access to players, teams, gameweeks, and current gameweek bootstrap data
+- **10 Strategy Prompts** - Structured templates for gameweek analysis, squad analysis, transfer planning, chip strategy, lineup selection, and captain selection
 - **Smart Caching** - 4-hour cache for bootstrap data to minimize API calls while keeping data fresh
 - **Fuzzy Matching** - Find players even with spelling variations or nicknames
 - **Live Transfer Trends** - Track the most transferred in/out players for current gameweek
