@@ -9,7 +9,7 @@ def test_via_exec():
         os.path.join(os.path.dirname(__file__), "../src/prompts/squad_analysis.py")
     )
 
-    with open(file_path) as f:
+    with open(file_path, encoding="utf-8") as f:
         content = f.read()
 
     # Remove the relative import that causes issues in isolation
