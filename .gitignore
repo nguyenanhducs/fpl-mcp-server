@@ -1,0 +1,29 @@
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.pot
+*.pyc
+*.pdb
+*.egg-info/
+dist/
+build/
+.DS_Store
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Test artifacts
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Virtual environment
+.venv/
+venv/
