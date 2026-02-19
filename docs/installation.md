@@ -94,10 +94,6 @@ Replace `/absolute/path/to/fpl-mcp-server` with your actual installation path.
 
 ---
 
-## Configuration
-
-The FPL MCP Server works out-of-the-box with sensible defaults. To change them, edit `src/config.py`.
-
 ## Verification
 
 To verify your installation, ask your AI assistant:

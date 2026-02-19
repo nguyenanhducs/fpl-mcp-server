@@ -2,8 +2,9 @@
 
 A comprehensive **Model Context Protocol (MCP)** server for Fantasy Premier League analysis and strategy. This server provides AI assistants with powerful tools, resources, and prompts to help you dominate your FPL mini-leagues with data-driven insights.
 
+[![PyPI](https://img.shields.io/pypi/v/fpl-mcp-server.svg)](https://pypi.org/project/fpl-mcp-server/)
+[![Python 3.13+](https://img.shields.io/badge/python-3.13%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![MCP](https://img.shields.io/badge/MCP-compatible-green.svg)](https://modelcontextprotocol.io)
 
 ## Features
