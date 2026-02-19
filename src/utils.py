@@ -1,13 +1,13 @@
 """Shared utility functions for FPL MCP Server tools."""
 
-from enum import Enum
+from enum import StrEnum
 import json
 from typing import Any
 
 import httpx
 
 
-class ResponseFormat(str, Enum):
+class ResponseFormat(StrEnum):
     """Output format for tool responses."""
 
     MARKDOWN = "markdown"
