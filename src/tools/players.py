@@ -474,7 +474,9 @@ async def fpl_compare_players(params: ComparePlayersInput) -> str:
             ("Selected By", lambda p: f"{get_stat(p, 'selected_by_percent', '0')}%"),
             (
                 "Status",
-                lambda p: f"{format_player_status(p.status)} {format_status_indicator(p.status, p.news)}",
+                lambda p: (
+                    f"{format_player_status(p.status)} {format_status_indicator(p.status, p.news)}"
+                ),
             ),
             ("Minutes", lambda p: get_stat(p, "minutes", "0")),
             ("Goals", lambda p: get_stat(p, "goals_scored")),
