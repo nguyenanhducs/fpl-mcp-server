@@ -76,3 +76,5 @@ This server uses the official **Fantasy Premier League API**, see [here](./docs/
 ## Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+<!-- mcp-name: io.github.nguyenanhducs/fpl-mcp-server -->
