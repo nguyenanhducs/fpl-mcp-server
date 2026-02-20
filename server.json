@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.nguyenanhducs/fpl-mcp-server",
-  "description": "An MCP server that provides [describe what your server does]",
+  "description": "An MCP server that provides Fantasy Premier League analysis and strategy tools, including player search, fixture analysis, transfer trends, and manager insights.",
   "repository": {
     "url": "https://github.com/nguyenanhducs/fpl-mcp-server",
     "source": "github"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "packages": [
     {
       "registryType": "pypi",
       "identifier": "fpl-mcp-server",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "transport": {
         "type": "stdio"
       },
