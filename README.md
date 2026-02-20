@@ -6,6 +6,7 @@ A comprehensive **Model Context Protocol (MCP)** server for Fantasy Premier Leag
 [![Python 3.13+](https://img.shields.io/badge/python-3.13%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/MCP-compatible-green.svg)](https://modelcontextprotocol.io)
+[![Document](https://img.shields.io/badge/docs-mintlify-blue)](https://nad-aae8058d.mintlify.app/)
 
 ## Features
 
